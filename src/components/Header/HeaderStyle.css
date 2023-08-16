@@ -1,0 +1,19 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  align-items: center;
+  padding: 20px;
+  color: white;
+  margin: 0% auto;
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
+header a {
+  text-decoration: none;
+  color: black;
+}
+header input {
+    width: 40%;
+    outline: none;
+  }
